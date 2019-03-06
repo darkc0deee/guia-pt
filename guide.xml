@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PT RTP 1">
+    <display-name lang="pt">PT RTP 1</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <channel id="PT: TV CINE 1">
+    <display-name lang="pt">PT: TV CINE 1</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <channel id="PT: TV CINE 2">
+    <display-name lang="pt">PT: TV CINE 2</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <channel id="PT: SPORT TV 1">
+    <display-name lang="pt">PT: SPORT TV 1</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <channel id="PT: SPORT TV 3">
+    <display-name lang="pt">PT: SPORT TV 3</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <channel id="PT: TV CINE 4 HD">
+    <display-name lang="pt">PT: TV CINE 4 HD</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <programme start="20190306004200 +0000" stop="20190306022000 +0000" channel="PT RTP 1">
+    <title lang="pt">American Ultra</title>
+    <sub-title lang="pt">Agentes Improváveis</sub-title>
+    <desc lang="pt">Mike é um rapaz tranquilo e pouco ambicioso a viver com a namorada numa pequena cidade do interior dos EUA. Um dia, à saída do trabalho, usando técnicas marciais que nunca imaginou possuir, elimin... Mike é um rapaz tranquilo e pouco ambicioso a viver com a namorada numa pequena cidade do interior dos EUA. Um dia, à saída do trabalho, usando técnicas marciais que nunca imaginou possuir, elimina dois indivíduos que o tentam matar(n)</desc>
+  </programme>
+  <programme start="20190306022000 +0000" stop="20190306031100 +0000" channel="PT RTP 1">
+    <title lang="pt">Água de Mar</title>
+    <sub-title lang="pt">Ep. 36</sub-title>
+    <desc lang="pt">Maria Eduarda é apanhada de surpresa quando encontra no Hula Hoop o homem que um dia a assaltou à saída de uma sala de jogo ilegal. Afinal ele é um Inspetor da Polícia Judiciária e está respons... Maria Eduarda é apanhada de surpresa quando encontra no Hula Hoop o homem que um dia a assaltou à saída de uma sala de jogo ilegal. Afinal ele é um Inspetor da Polícia Judiciária e está responsável por investigar um descarregamento de droga que te(n)</desc>
+  </programme>
+  <programme start="20190306055900 +0000" stop="20190306063000 +0000" channel="PT RTP 1">
+    <title lang="pt">Manchetes 3</title>
+    <desc lang="pt">Informação diária.... Informação diária(n)</desc>
+  </programme>
+  <programme start="20190306063000 +0000" stop="20190306100000 +0000" channel="PT RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho.... Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
+  </programme>
+  <programme start="20190306100000 +0000" stop="20190306130000 +0000" channel="PT RTP 1">
+    <title lang="pt">Praça da Alegria</title>
+    <desc lang="pt">Jorge Gabriel e Sónia Araújo dão-lhe as boas vindas à nova casa da “Praça da Alegria De segunda a sexta-feira, entre as 10h e as 13h, este programa vai levar até si a melhor música, as últim... Jorge Gabriel e Sónia Araújo dão-lhe as boas vindas à nova casa da “Praça da Alegria De segunda a sexta-feira, entre as 10h e as 13h, este programa vai levar até si a melhor música, as últimas tendências da moda, conselhos úteis e novas dicas(n)</desc>
+  </programme>
+  <programme start="20190306141000 +0000" stop="20190306150500 +0000" channel="PT RTP 1">
+    <title lang="pt">Bem-vindos a Beirais T4</title>
+    <sub-title lang="pt">Ep. 22</sub-title>
+    <desc lang="pt">No consultório, Nuno recebe a sua mulher Susana que chega com a primeira ecografia. Nuno emociona-se e refere que devem tornar a gravidez pública. Susana promete combinar um almoço com a sua mãe O... No consultório, Nuno recebe a sua mulher Susana que chega com a primeira ecografia. Nuno emociona-se e refere que devem tornar a gravidez pública. Susana promete combinar um almoço com a sua mãe Olga e o seu filho Gabriel(n)</desc>
+  </programme>
+  <programme start="20190306150500 +0000" stop="20190306155700 +0000" channel="PT RTP 1">
+    <title lang="pt">Bem-vindos a Beirais T4</title>
+    <sub-title lang="pt">Ep. 23</sub-title>
+    <desc lang="pt">Agostinho chega a Beirais e mostra-se cheio de confiança. Agostinho entra na barbearia e os beiralenses cumprimentam-no surpresos. Agostinho fala de cabeça erguida, mas não se apercebe que ninguém... Agostinho chega a Beirais e mostra-se cheio de confiança. Agostinho entra na barbearia e os beiralenses cumprimentam-no surpresos. Agostinho fala de cabeça erguida, mas não se apercebe que ninguém o leva a sério com a sua política em Bruxelas(n)</desc>
+  </programme>
+  <programme start="20190306155700 +0000" stop="20190306173000 +0000" channel="PT RTP 1">
+    <title lang="pt">Agora Nós</title>
+    <desc lang="pt">As tardes estão cheias de surpresas, jogos, dicas, alegria e muito humor. Tânia Ribas de Oliveira e Zé Pedro Vasconcelos vão estar consigo de segunda a sexta no 'Agora Nós'. A eles juntam-se Joan... As tardes estão cheias de surpresas, jogos, dicas, alegria e muito humor. Tânia Ribas de Oliveira e Zé Pedro Vasconcelos vão estar consigo de segunda a sexta no 'Agora Nós'. A eles juntam-se Joana Teles e Tiago Goes Ferreira quer em estúdio, quer no(n)</desc>
+  </programme>
+  <programme start="20190306190800 +0000" stop="20190306195900 +0000" channel="PT RTP 1">
+    <title lang="pt">O Preço Certo</title>
+    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de merc... Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes(n)</desc>
+  </programme>
+  <programme start="20190306195900 +0000" stop="20190306210000 +0000" channel="PT RTP 1">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou ... A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejorn(n)</desc>
+  </programme>
+  <programme start="20190306210000 +0000" stop="20190306214700 +0000" channel="PT RTP 1">
+    <title lang="pt">Joker</title>
+    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o p... Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
+  </programme>
+  <programme start="20190306214700 +0000" stop="20190306230600 +0000" channel="PT RTP 1">
+    <title lang="pt">Cá Por Casa com Herman José</title>
+    <desc lang="pt">Neste programa misturam-se os conceitos de talk show, humor e variedades. Entre conversas no sofá, ao piano, algumas incursões à cozinha, grandes atuações musicais e sketches de humor com Maria R... Neste programa misturam-se os conceitos de talk show, humor e variedades. Entre conversas no sofá, ao piano, algumas incursões à cozinha, grandes atuações musicais e sketches de humor com Maria Rueff. O público e convidados são surpreendidos numa c(n)</desc>
+  </programme>
+  <programme start="20190306230600 +0000" stop="20190306235400 +0000" channel="PT RTP 1">
+    <title lang="pt">Circo Paraíso T2</title>
+    <sub-title lang="pt">Ep. 10</sub-title>
+    <desc lang="pt">Emílio continua a delirar. Depois da chamada do empregado de Artur, Emílio alucina cada vez mais com o seu pai. Recomendado pela doutora Manuela, Jonas decide hospitalizar o pai num hospital psiqui�... Emílio continua a delirar. Depois da chamada do empregado de Artur, Emílio alucina cada vez mais com o seu pai. Recomendado pela doutora Manuela, Jonas decide hospitalizar o pai num hospital psiquiátrico para fazer testes e perceber o porquê do seu es(n)</desc>
+  </programme>
+  <programme start="20190307004100 +0000" stop="20190307011400 +0000" channel="PT RTP 1">
+    <title lang="pt">Janela Indiscreta</title>
+    <desc lang="pt">Janela Indiscreta é um programa sobre cinema que dá a conhecer as estreias, histórias de bastidores e entrevistas com os protagonistas das produções internacionais, muitas delas em exclusivo. Com... Janela Indiscreta é um programa sobre cinema que dá a conhecer as estreias, histórias de bastidores e entrevistas com os protagonistas das produções internacionais, muitas delas em exclusivo. Com apresentação de Mário Augusto(n)</desc>
+  </programme>
+  <programme start="20190307011400 +0000" stop="20190307021300 +0000" channel="PT RTP 1">
+    <title lang="pt">Grande Entrevista: Mário Centeno</title>
+    <desc lang="pt">No momento que volta à atualidade informativa a situação da banca portuguesa, importa saber o que se passa. Nomeadamente quando se fala que o Estado português terá de injetar mais dinheiro no Nov... No momento que volta à atualidade informativa a situação da banca portuguesa, importa saber o que se passa. Nomeadamente quando se fala que o Estado português terá de injetar mais dinheiro no Novo Banco(n)</desc>
+  </programme>
+  <programme start="20190307025800 +0000" stop="20190307055900 +0000" channel="PT RTP 1">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.... Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
+  </programme>
+  <programme start="20190307055900 +0000" stop="20190307063000 +0000" channel="PT RTP 1">
+    <title lang="pt">Manchetes 3</title>
+    <desc lang="pt">Informação diária.... Informação diária(n)</desc>
+  </programme>
+  <programme start="20190307063000 +0000" stop="20190307100000 +0000" channel="PT RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho.... Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
+  </programme>
+  <programme start="20190307130000 +0000" stop="20190307141000 +0000" channel="PT RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional.... As notícias que marcam a atualidade nacional e internacional(n)</desc>
+  </programme>
+  <programme start="20190307141000 +0000" stop="20190307150000 +0000" channel="PT RTP 1">
+    <title lang="pt">Bem-vindos a Beirais T4</title>
+    <sub-title lang="pt">Ep. 24</sub-title>
+    <desc lang="pt">No largo da igreja, Olga aproxima-se de Diogo e censura-o por ter comprado um livro na banca de Luna. Diogo não lhe satisfaz a curiosidade e diverte-se a vê-la afastar, ofendida.... No largo da igreja, Olga aproxima-se de Diogo e censura-o por ter comprado um livro na banca de Luna. Diogo não lhe satisfaz a curiosidade e diverte-se a vê-la afastar, ofendida(n)</desc>
+  </programme>
+  <programme start="20190307150000 +0000" stop="20190307154500 +0000" channel="PT RTP 1">
+    <title lang="pt">Bem-vindos a Beirais T4</title>
+    <sub-title lang="pt">Ep. 25</sub-title>
+    <desc lang="pt">No largo da camioneta, Carlos está desesperado pois a sua camioneta avariou. Diogo e Tiago aproximam-se. Diogo aconselha Carlos a pedir ajuda a Manel e Carlos fica preocupado com a situação. No gab... No largo da camioneta, Carlos está desesperado pois a sua camioneta avariou. Diogo e Tiago aproximam-se. Diogo aconselha Carlos a pedir ajuda a Manel e Carlos fica preocupado com a situação. No gabinete, Padre Justino e Patrícia falam sobre o restauro(n)</desc>
+  </programme>
+  <programme start="20190307173000 +0000" stop="20190307184600 +0000" channel="PT RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar.... A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
+  </programme>
+  <programme start="20190307184600 +0000" stop="20190307185400 +0000" channel="PT RTP 1">
+    <title lang="pt">Fatura da Sorte</title>
+    <desc lang="pt">Todas as semanas, o sorteio de certificados do tesouro, que tem por finalidade 'valorizar e premiar a cidadania fiscal dos contribuintes no combate à economia paralela e à evasão fiscal'.... Todas as semanas, o sorteio de certificados do tesouro, que tem por finalidade 'valorizar e premiar a cidadania fiscal dos contribuintes no combate à economia paralela e à evasão fiscal'(n)</desc>
+  </programme>
+  <programme start="20190307185400 +0000" stop="20190307195200 +0000" channel="PT RTP 1">
+    <title lang="pt">O Preço Certo</title>
+    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de merc... Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes(n)</desc>
+  </programme>
+  <programme start="20190307195200 +0000" stop="20190307195900 +0000" channel="PT RTP 1">
+    <title lang="pt">Direito de Antena</title>
+    <desc lang="pt">Espaço da responsabilidade das entidades intervenientes. Destina-se essencialmente à divulgação de campanhas políticas, de solidariedade ou outras associações de caráter diverso.... Espaço da responsabilidade das entidades intervenientes. Destina-se essencialmente à divulgação de campanhas políticas, de solidariedade ou outras associações de caráter diverso(n)</desc>
+  </programme>
+  <programme start="20190307195900 +0000" stop="20190307210000 +0000" channel="PT RTP 1">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou ... A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejorn(n)</desc>
+  </programme>
+  <programme start="20190307210000 +0000" stop="20190307213400 +0000" channel="PT RTP 1">
+    <title lang="pt">Linha da Frente</title>
+    <desc lang="pt">O 'Linha da Frente' é um dos espaços mais premiados e mais vistos da televisão portuguesa. Com coordenação da jornalista Mafalda Gameiro, todas as semanas uma realidade diferente.... O 'Linha da Frente' é um dos espaços mais premiados e mais vistos da televisão portuguesa. Com coordenação da jornalista Mafalda Gameiro, todas as semanas uma realidade diferente(n)</desc>
+  </programme>
+  <programme start="20190307213400 +0000" stop="20190307223300 +0000" channel="PT RTP 1">
+    <title lang="pt">Joker</title>
+    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o p... Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
+  </programme>
+  <programme start="20190306011000 +0000" stop="20190306030500 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Patti Cake$</title>
+    <desc lang="pt">A história da aspirante a rapper Patricia Dombrowski, a.k.a. Killa P, a.k.a. Patti Cake$,que luta para conquistar a glória na sua terra natal, em Nova Jérsia.... A história da aspirante a rapper Patricia Dombrowski, a.k.a. Killa P, a.k.a. Patti Cake$,que luta para conquistar a glória na sua terra natal, em Nova Jérsia(n)</desc>
+  </programme>
+  <programme start="20190306030500 +0000" stop="20190306045000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Terror Viral</title>
+    <desc lang="pt">Cinco amigos são aterrorizados por uma entidade sobrenatural, depois de fazerem o download de uma misteriosa app...... Cinco amigos são aterrorizados por uma entidade sobrenatural, depois de fazerem o download de uma misteriosa app..(n)</desc>
+  </programme>
+  <programme start="20190306062500 +0000" stop="20190306081000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Escolhe Tu!</title>
+    <desc lang="pt">Juliette é totalmente incapaz de decidir sobre qualquer coisa. Mas quando a sua vida amorosa cruza-se com a de Paulo e Stephen, ambos charmosos e tão diferentes um do outro, o coração de Juliette ... Juliette é totalmente incapaz de decidir sobre qualquer coisa. Mas quando a sua vida amorosa cruza-se com a de Paulo e Stephen, ambos charmosos e tão diferentes um do outro, o coração de Juliette balança. E agora ninguém poderá decidir por ela..(n)</desc>
+  </programme>
+  <programme start="20190306081000 +0000" stop="20190306100000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Com_Paixão</title>
+    <desc lang="pt">A história verídica de Donald Crowhurst, um velejador amador que em 1968 entrou na Golden Globe Race para ser a pessoa mais rápida e sozinha a circum-navegar o mundo sem parar. Mas pouco depois de ... A história verídica de Donald Crowhurst, um velejador amador que em 1968 entrou na Golden Globe Race para ser a pessoa mais rápida e sozinha a circum-navegar o mundo sem parar. Mas pouco depois de partir, fica evidente que Donald está mal preparado(n)</desc>
+  </programme>
+  <programme start="20190306100000 +0000" stop="20190306115000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Lego Ninjago: O Filme (V.P.)</title>
+    <desc lang="pt">Nesta primeira aventura NINJAGO, a batalha pela cidade de Ninjago pede a ação do jovem Lloyd, mais conhecido como o Ninja Verde, juntamente com os seus amigos que, secretamente, são todos guerreiro... Nesta primeira aventura NINJAGO, a batalha pela cidade de Ninjago pede a ação do jovem Lloyd, mais conhecido como o Ninja Verde, juntamente com os seus amigos que, secretamente, são todos guerreiros ninjas(n)</desc>
+  </programme>
+  <programme start="20190306140000 +0000" stop="20190306154000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Journeyman: Vontade De Vencer</title>
+    <desc lang="pt">Matty Burton, campeão mundial de boxe, decide despedir-se da carreira e conquistar um último título. Matty vence o duro combate, mas tem um colapso. Ao despertar do coma, a sua luta pela recuperaç... Matty Burton, campeão mundial de boxe, decide despedir-se da carreira e conquistar um último título. Matty vence o duro combate, mas tem um colapso. Ao despertar do coma, a sua luta pela recuperação será mais dura do que qualquer combate travado..(n)</desc>
+  </programme>
+  <programme start="20190306154000 +0000" stop="20190306173000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">The Commuter</title>
+    <sub-title lang="pt">O Passageiro</sub-title>
+    <desc lang="pt">Na sua viagem diária de comboio para o emprego, Michael é abordado por um misterioso estranho e forçado a desvendar a identidade de uma pessoa antes que a viagem termine. Caso contrário, as conseq... Na sua viagem diária de comboio para o emprego, Michael é abordado por um misterioso estranho e forçado a desvendar a identidade de uma pessoa antes que a viagem termine. Caso contrário, as consequência poderão ser fatais para todos os passageiros(n)</desc>
+  </programme>
+  <programme start="20190306173000 +0000" stop="20190306193500 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Liga da Justiça</title>
+    <desc lang="pt">Batman e a Mulher-Maravilha vão recrutar uma equipa de meta-humanos para, juntos, fazerem frente à mais recente ameaça mundial. A eles juntam-se Aquaman, Flash e o Cyborg, mas será que chegam a te... Batman e a Mulher-Maravilha vão recrutar uma equipa de meta-humanos para, juntos, fazerem frente à mais recente ameaça mundial. A eles juntam-se Aquaman, Flash e o Cyborg, mas será que chegam a tempo de salvar o mundo?(n)</desc>
+  </programme>
+  <programme start="20190306213000 +0000" stop="20190306231500 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Ilha Dos Cães (V.O.)</title>
+    <desc lang="pt">Atari, 12 anos, vive sob a tutela de Kobayashi, o corrupto presidente da câmara. Quando, por decreto, todos os cães da cidade são exilados para uma vasta lixeira chamada Ilha do Lixo, Atari parte s... Atari, 12 anos, vive sob a tutela de Kobayashi, o corrupto presidente da câmara. Quando, por decreto, todos os cães da cidade são exilados para uma vasta lixeira chamada Ilha do Lixo, Atari parte sozinho à procura do seu cão de guarda, Spots..(n)</desc>
+  </programme>
+  <programme start="20190306231500 +0000" stop="20190307010500 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Mães à Solta 2</title>
+    <desc lang="pt">Nas vésperas da organização do maior evento do ano: o Natal, três amigas, que apesar de sobrecarregadas de trabalho não perdem a sua loucura e boa disposição, recebem a visita das suas mães!... Nas vésperas da organização do maior evento do ano: o Natal, três amigas, que apesar de sobrecarregadas de trabalho não perdem a sua loucura e boa disposição, recebem a visita das suas mães!(n)</desc>
+  </programme>
+  <programme start="20190307010500 +0000" stop="20190307024500 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Better Watch Out</title>
+    <desc lang="pt">Luke, 12 anos, fica ao cuidado de uma babysitter, Ashley, por quem tem uma paixoneta. Quando os dois se apercebem que um estranho está a brincar com eles, os dois são forçados a entrar num jogo de ... Luke, 12 anos, fica ao cuidado de uma babysitter, Ashley, por quem tem uma paixoneta. Quando os dois se apercebem que um estranho está a brincar com eles, os dois são forçados a entrar num jogo de gato e rato, numa luta pela sobrevivência..(n)</desc>
+  </programme>
+  <programme start="20190307024500 +0000" stop="20190307041000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Framed (2017)</title>
+    <desc lang="pt">Alex reúne-se com os amigos para uma saída. Mas durante essa noite são atacados por três indivíduos cujo único objetivo é submetê-los a retorcidos jogos mortais, enquanto tudo é transmitido p... Alex reúne-se com os amigos para uma saída. Mas durante essa noite são atacados por três indivíduos cujo único objetivo é submetê-los a retorcidos jogos mortais, enquanto tudo é transmitido pela internet. A tortura e a morte tornam-se um espetác(n)</desc>
+  </programme>
+  <programme start="20190307055500 +0000" stop="20190307073500 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Os Punhos De East End</title>
+    <desc lang="pt">A história de um dos maiores pugilistas de mãos nuas britânico, Lenny McLean, também conhecido como ´the Guv´nor´.... A história de um dos maiores pugilistas de mãos nuas britânico, Lenny McLean, também conhecido como ´the Guv´nor´(n)</desc>
+  </programme>
+  <programme start="20190307073500 +0000" stop="20190307090000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Todos Querem Matar Hasselhoff</title>
+    <desc lang="pt">Chris é o proprietário de uma discoteca em dificuldades que, de forma a conseguir liquidar a sua dívida de milhões e livrar-se de um mafioso, entra no mundo das apostas de morte de celebridades. A... Chris é o proprietário de uma discoteca em dificuldades que, de forma a conseguir liquidar a sua dívida de milhões e livrar-se de um mafioso, entra no mundo das apostas de morte de celebridades. A sua missão: matar David Hasselhoff(n)</desc>
+  </programme>
+  <programme start="20190307090000 +0000" stop="20190307110500 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Liga da Justiça</title>
+    <desc lang="pt">Batman e a Mulher-Maravilha vão recrutar uma equipa de meta-humanos para, juntos, fazerem frente à mais recente ameaça mundial. A eles juntam-se Aquaman, Flash e o Cyborg, mas será que chegam a te... Batman e a Mulher-Maravilha vão recrutar uma equipa de meta-humanos para, juntos, fazerem frente à mais recente ameaça mundial. A eles juntam-se Aquaman, Flash e o Cyborg, mas será que chegam a tempo de salvar o mundo?(n)</desc>
+  </programme>
+  <programme start="20190307130500 +0000" stop="20190307145000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Ilha Dos Cães (V.O.)</title>
+    <desc lang="pt">Atari, 12 anos, vive sob a tutela de Kobayashi, o corrupto presidente da câmara. Quando, por decreto, todos os cães da cidade são exilados para uma vasta lixeira chamada Ilha do Lixo, Atari parte s... Atari, 12 anos, vive sob a tutela de Kobayashi, o corrupto presidente da câmara. Quando, por decreto, todos os cães da cidade são exilados para uma vasta lixeira chamada Ilha do Lixo, Atari parte sozinho à procura do seu cão de guarda, Spots..(n)</desc>
+  </programme>
+  <programme start="20190307145000 +0000" stop="20190307164000 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Mães à Solta 2</title>
+    <desc lang="pt">Nas vésperas da organização do maior evento do ano: o Natal, três amigas, que apesar de sobrecarregadas de trabalho não perdem a sua loucura e boa disposição, recebem a visita das suas mães!... Nas vésperas da organização do maior evento do ano: o Natal, três amigas, que apesar de sobrecarregadas de trabalho não perdem a sua loucura e boa disposição, recebem a visita das suas mães!(n)</desc>
+  </programme>
+  <programme start="20190307164000 +0000" stop="20190307190500 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Ready Player One: Jogador 1</title>
+    <desc lang="pt">Em 2045 o planeta está devastado por conflitos e escassez de recursos. O OASIS é um mundo virtual onde os humanos passam os dias. Quando o seu criador morre, deixa uma fortuna e o controlo da sua em... Em 2045 o planeta está devastado por conflitos e escassez de recursos. O OASIS é um mundo virtual onde os humanos passam os dias. Quando o seu criador morre, deixa uma fortuna e o controlo da sua empresa à 1ª pessoa que vencer o desafio que criou(n)</desc>
+  </programme>
+  <programme start="20190307213000 +0000" stop="20190307232500 +0000" channel="PT: TV CINE 1">
+    <title lang="pt">Baby Driver: Alta Velocidade</title>
+    <desc lang="pt">Baby, um jovem condutor especialista em fugas em assaltos,confia na sua banda sonora para ser o melhor. Ao encontrar a miúda dos seus sonhos, Baby pensa em deixar a vida do crime. Mas terá de optar ... Baby, um jovem condutor especialista em fugas em assaltos,confia na sua banda sonora para ser o melhor. Ao encontrar a miúda dos seus sonhos, Baby pensa em deixar a vida do crime. Mas terá de optar pela música certa quando um golpe põe tudo em risco(n)</desc>
+  </programme>
+  <programme start="20190306012000 +0000" stop="20190306015000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Num País Estrangeiro</title>
+    <desc lang="pt">Transcriação cinematográfica de texto censurado em 1968.... Transcriação cinematográfica de texto censurado em 1968(n)</desc>
+  </programme>
+  <programme start="20190306015000 +0000" stop="20190306031000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">A Ilha dos Cães</title>
+    <desc lang="pt">Duas Angolas, a colonial e a atual, partilham a maldição de uma ilha misteriosa. No passado o epicentro da tragédia é uma fortaleza sinistra, túmulo de revolucionários. No presente a construçã... Duas Angolas, a colonial e a atual, partilham a maldição de uma ilha misteriosa. No passado o epicentro da tragédia é uma fortaleza sinistra, túmulo de revolucionários. No presente a construção de um resort desperta a mandíbula implacável da jus(n)</desc>
+  </programme>
+  <programme start="20190306043500 +0000" stop="20190306062000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Relíquia Macabra</title>
+    <desc lang="pt">Um detetive privado aceita um caso que o vai envolver com três excêntricos criminosos, uma bela mentirosa e a demanda destes por uma valiosa estatueta.... Um detetive privado aceita um caso que o vai envolver com três excêntricos criminosos, uma bela mentirosa e a demanda destes por uma valiosa estatueta(n)</desc>
+  </programme>
+  <programme start="20190306062000 +0000" stop="20190306082500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">O Terceiro Assassinato</title>
+    <desc lang="pt">A história poderosa de um homem que se esforça para encontrar a verdade, enquanto questiona a sua própria fé na lei.... A história poderosa de um homem que se esforça para encontrar a verdade, enquanto questiona a sua própria fé na lei(n)</desc>
+  </programme>
+  <programme start="20190306082500 +0000" stop="20190306101000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">A Mulher que Nasceu Ontem</title>
+    <desc lang="pt">Um mafioso contrata um tutor para dar lições de etiqueta à sua namorada, uma ex-actriz de cabaret que já o embaraçou em diversos eventos sociais.... Um mafioso contrata um tutor para dar lições de etiqueta à sua namorada, uma ex-actriz de cabaret que já o embaraçou em diversos eventos sociais(n)</desc>
+  </programme>
+  <programme start="20190306120500 +0000" stop="20190306132500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">A Ilha dos Cães</title>
+    <desc lang="pt">Duas Angolas, a colonial e a atual, partilham a maldição de uma ilha misteriosa. No passado o epicentro da tragédia é uma fortaleza sinistra, túmulo de revolucionários. No presente a construçã... Duas Angolas, a colonial e a atual, partilham a maldição de uma ilha misteriosa. No passado o epicentro da tragédia é uma fortaleza sinistra, túmulo de revolucionários. No presente a construção de um resort desperta a mandíbula implacável da jus(n)</desc>
+  </programme>
+  <programme start="20190306132500 +0000" stop="20190306151500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Patti Cake$</title>
+    <desc lang="pt">A história da aspirante a rapper Patricia Dombrowski, a.k.a. Killa P, a.k.a. Patti Cake$,que luta para conquistar a glória na sua terra natal, em Nova Jérsia.... A história da aspirante a rapper Patricia Dombrowski, a.k.a. Killa P, a.k.a. Patti Cake$,que luta para conquistar a glória na sua terra natal, em Nova Jérsia(n)</desc>
+  </programme>
+  <programme start="20190306151500 +0000" stop="20190306165500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Um Dia em Nova Iorque</title>
+    <desc lang="pt">Três marinheiros gozam um dia de licença em Nova Iorque e o seu plano é encontrar romance e diversão antes que as 24 horas acabem…... Três marinheiros gozam um dia de licença em Nova Iorque e o seu plano é encontrar romance e diversão antes que as 24 horas acabem…(n)</desc>
+  </programme>
+  <programme start="20190306182500 +0000" stop="20190306210000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Sangue de Guerra</title>
+    <desc lang="pt">A história de Osvaldo Valenti e Luisa Ferida, estrelas italianas da época fascista. O famosos casal levava uma vida de excessos e dizia-se que colaboravam com grupos fascistas e lucravam com o merca... A história de Osvaldo Valenti e Luisa Ferida, estrelas italianas da época fascista. O famosos casal levava uma vida de excessos e dizia-se que colaboravam com grupos fascistas e lucravam com o mercado negro. Acabaram executados sumariamente(n)</desc>
+  </programme>
+  <programme start="20190306210000 +0000" stop="20190306220000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Curtas Às Quartas</title>
+    <sub-title lang="pt">Ep. 81</sub-title>
+    <desc lang="pt">Anabela Moreira chega ao Curtas e junta-se à conversa com Joana Linda. As multifacetadas artistas contam como o Teatro as uniu. ´O Dia do Meu Casamento´, realizado por Anabela Moreira e com fotogra... Anabela Moreira chega ao Curtas e junta-se à conversa com Joana Linda. As multifacetadas artistas contam como o Teatro as uniu. ´O Dia do Meu Casamento´, realizado por Anabela Moreira e com fotografia de cena de Joana Linda, é a curta que exibimos, qu(n)</desc>
+  </programme>
+  <programme start="20190306220000 +0000" stop="20190306235500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Amor Amor</title>
+    <desc lang="pt">A história de um grupo de amigos que na passagem de ano vive todos os ziguezagues do amor. Há quem venha a descobrir-se a si próprio. Há quem venha a descobrir o amor. E há quem venha a conhecer ... A história de um grupo de amigos que na passagem de ano vive todos os ziguezagues do amor. Há quem venha a descobrir-se a si próprio. Há quem venha a descobrir o amor. E há quem venha a conhecer o preço da liberdade(n)</desc>
+  </programme>
+  <programme start="20190306235500 +0000" stop="20190307014000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Com_Paixão</title>
+    <desc lang="pt">A história verídica de Donald Crowhurst, um velejador amador que em 1968 entrou na Golden Globe Race para ser a pessoa mais rápida e sozinha a circum-navegar o mundo sem parar. Mas pouco depois de ... A história verídica de Donald Crowhurst, um velejador amador que em 1968 entrou na Golden Globe Race para ser a pessoa mais rápida e sozinha a circum-navegar o mundo sem parar. Mas pouco depois de partir, fica evidente que Donald está mal preparado(n)</desc>
+  </programme>
+  <programme start="20190307014000 +0000" stop="20190307033500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Bellamy</title>
+    <desc lang="pt">Durante as férias com a mulher em Nîmes, o conhecido inspetor parisiense Paul Bellamy, vê-se envolvido numa investigação criminal.... Durante as férias com a mulher em Nîmes, o conhecido inspetor parisiense Paul Bellamy, vê-se envolvido numa investigação criminal(n)</desc>
+  </programme>
+  <programme start="20190307033500 +0000" stop="20190307052500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Serenata À Chuva</title>
+    <desc lang="pt">Don Lockwood e Lina Lamont são a dupla mais famosa do cinema mudo. A chegada do cinema falado traz-lhes um novo deafio: a realização de um musical. Mas quando se percebe que Lina não sabe cantar, ... Don Lockwood e Lina Lamont são a dupla mais famosa do cinema mudo. A chegada do cinema falado traz-lhes um novo deafio: a realização de um musical. Mas quando se percebe que Lina não sabe cantar, Kathy Selden é contratada para dobrar a voz da popular(n)</desc>
+  </programme>
+  <programme start="20190307053500 +0000" stop="20190307071500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Um Dia em Nova Iorque</title>
+    <desc lang="pt">Três marinheiros gozam um dia de licença em Nova Iorque e o seu plano é encontrar romance e diversão antes que as 24 horas acabem…... Três marinheiros gozam um dia de licença em Nova Iorque e o seu plano é encontrar romance e diversão antes que as 24 horas acabem…(n)</desc>
+  </programme>
+  <programme start="20190307071500 +0000" stop="20190307074500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Senhor X</title>
+    <desc lang="pt">Um velho realizador de cinema oferece a sua velha máquina de filmar a um homem da recolha do lixo. Nas suas mãos, a velha máquina tem o poder de transformar a realidade envolvente e o amor acontece... Um velho realizador de cinema oferece a sua velha máquina de filmar a um homem da recolha do lixo. Nas suas mãos, a velha máquina tem o poder de transformar a realidade envolvente e o amor acontece..(n)</desc>
+  </programme>
+  <programme start="20190307074500 +0000" stop="20190307102000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Sangue de Guerra</title>
+    <desc lang="pt">A história de Osvaldo Valenti e Luisa Ferida, estrelas italianas da época fascista. O famosos casal levava uma vida de excessos e dizia-se que colaboravam com grupos fascistas e lucravam com o merca... A história de Osvaldo Valenti e Luisa Ferida, estrelas italianas da época fascista. O famosos casal levava uma vida de excessos e dizia-se que colaboravam com grupos fascistas e lucravam com o mercado negro. Acabaram executados sumariamente(n)</desc>
+  </programme>
+  <programme start="20190307115500 +0000" stop="20190307131500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Terra de Ninguém</title>
+    <desc lang="pt">Paulo oferece retratos sublimados das crueldades e paradoxos do poder assim como das revoluções que o depuseram, apenas para erguer novas burocracias, novas crueldades e paradoxos. O seu trabalho co... Paulo oferece retratos sublimados das crueldades e paradoxos do poder assim como das revoluções que o depuseram, apenas para erguer novas burocracias, novas crueldades e paradoxos. O seu trabalho como mercenário encontra-se na franja destes dois mundos(n)</desc>
+  </programme>
+  <programme start="20190307131500 +0000" stop="20190307153500 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Paixão de Marinheiro</title>
+    <desc lang="pt">Dois marinheiros preparam-se para 4 dias de licença em Los Angels. Enquanto o primeiro, mais experiente, espera gozar uns dias com a nova namorada, o outro, mais ingénuo, pede-lhe conselhos para con... Dois marinheiros preparam-se para 4 dias de licença em Los Angels. Enquanto o primeiro, mais experiente, espera gozar uns dias com a nova namorada, o outro, mais ingénuo, pede-lhe conselhos para conseguir impressionar as raparigas…(n)</desc>
+  </programme>
+  <programme start="20190307153500 +0000" stop="20190307172000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Serenata À Chuva</title>
+    <desc lang="pt">Don Lockwood e Lina Lamont são a dupla mais famosa do cinema mudo. A chegada do cinema falado traz-lhes um novo deafio: a realização de um musical. Mas quando se percebe que Lina não sabe cantar, ... Don Lockwood e Lina Lamont são a dupla mais famosa do cinema mudo. A chegada do cinema falado traz-lhes um novo deafio: a realização de um musical. Mas quando se percebe que Lina não sabe cantar, Kathy Selden é contratada para dobrar a voz da popular(n)</desc>
+  </programme>
+  <programme start="20190307173000 +0000" stop="20190307202000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">A Primeira Vitória</title>
+    <desc lang="pt">A visão épica do produtor e realizador Otto Preminger sobre o bombardeamento de Pearl Harbor, que conta em pormenor como ocorreu o devastador ataque surpresa, bem como as explosivas histórias dos b... A visão épica do produtor e realizador Otto Preminger sobre o bombardeamento de Pearl Harbor, que conta em pormenor como ocorreu o devastador ataque surpresa, bem como as explosivas histórias dos bastidores(n)</desc>
+  </programme>
+  <programme start="20190307202000 +0000" stop="20190307220000 +0000" channel="PT: TV CINE 2">
+    <title lang="pt">Escolhe Tu!</title>
+    <desc lang="pt">Juliette é totalmente incapaz de decidir sobre qualquer coisa. Mas quando a sua vida amorosa cruza-se com a de Paulo e Stephen, ambos charmosos e tão diferentes um do outro, o coração de Juliette ... Juliette é totalmente incapaz de decidir sobre qualquer coisa. Mas quando a sua vida amorosa cruza-se com a de Paulo e Stephen, ambos charmosos e tão diferentes um do outro, o coração de Juliette balança. E agora ninguém poderá decidir por ela..(n)</desc>
+  </programme>
+  <programme start="20190306000000 +0000" stop="20190306023000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">NBA: Philadelphia 76ers x Orlando Magic (Direto)</title>
+    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo.... Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
+  </programme>
+  <programme start="20190306023000 +0000" stop="20190306033000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">UFC: Jones x Smith</title>
+    <sub-title lang="pt">Las Vegas</sub-title>
+    <desc lang="pt">Transmissão do combate a contar para o UFC.... Transmissão do combate a contar para o UFC(n)</desc>
+  </programme>
+  <programme start="20190306033000 +0000" stop="20190306060000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">NBA: Golden State Warriors x Boston Celtics (Direto)</title>
+    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo.... Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
+  </programme>
+  <programme start="20190306070000 +0000" stop="20190306073000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Ralis: WRC</title>
+    <sub-title lang="pt">Antevisão</sub-title>
+    <desc lang="pt">Antevisão do Campeonato do Mundo de Ralis.... Antevisão do Campeonato do Mundo de Ralis(n)</desc>
+  </programme>
+  <programme start="20190306073000 +0000" stop="20190306083000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Hipismo: Longines Masters</title>
+    <sub-title lang="pt">Hong Kong (Resumo)</sub-title>
+    <desc lang="pt">Resumo da prova Longines Masters em Hong Kong.... Resumo da prova Longines Masters em Hong Kong(n)</desc>
+  </programme>
+  <programme start="20190306083000 +0000" stop="20190306090000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Andebol: 14ª Jornada</title>
+    <sub-title lang="pt">Liga dos Campeões (Resumo)</sub-title>
+    <desc lang="pt">Resumo da jornada da Liga dos Campeões de Andebol.... Resumo da jornada da Liga dos Campeões de Andebol(n)</desc>
+  </programme>
+  <programme start="20190306104000 +0000" stop="20190306125000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">NBA: Philadelphia 76ers x Orlando Magic</title>
+    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo.... Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
+  </programme>
+  <programme start="20190306125000 +0000" stop="20190306150000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">NBA: Golden State Warriors x Boston Celtics</title>
+    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo.... Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
+  </programme>
+  <programme start="20190306150000 +0000" stop="20190306153000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Andebol: 14ª Jornada</title>
+    <sub-title lang="pt">Liga dos Campeões (Resumo)</sub-title>
+    <desc lang="pt">Resumo da jornada da Liga dos Campeões de Andebol.... Resumo da jornada da Liga dos Campeões de Andebol(n)</desc>
+  </programme>
+  <programme start="20190306173000 +0000" stop="20190306193000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">AS Vitre x Nantes</title>
+    <sub-title lang="pt">Taça de França (Direto)</sub-title>
+    <desc lang="pt">Transmissão do encontro a contar para a Taça de França.... Transmissão do encontro a contar para a Taça de França(n)</desc>
+  </programme>
+  <programme start="20190306193000 +0000" stop="20190306200000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Superliga Turca: 24ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Superliga Turca.... Resumo dos melhores momentos da Superliga Turca(n)</desc>
+  </programme>
+  <programme start="20190306200000 +0000" stop="20190306203000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Liga Holandesa: 24ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Liga Holandesa.... Resumo dos melhores momentos da Liga Holandesa(n)</desc>
+  </programme>
+  <programme start="20190306203000 +0000" stop="20190306210000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Série A Full Impact</title>
+    <desc lang="pt">Siga todos os resultados, jogos, novidades e classificações da Série A.... Siga todos os resultados, jogos, novidades e classificações da Série A(n)</desc>
+  </programme>
+  <programme start="20190306210000 +0000" stop="20190306213000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Segunda Liga: Magazine</title>
+    <desc lang="pt">Magazine soubre a Segunda Liga.... Magazine soubre a Segunda Liga(n)</desc>
+  </programme>
+  <programme start="20190306213000 +0000" stop="20190306220000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Primeira Liga: 24ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Primeira Liga.... Resumo dos melhores momentos da Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190306220000 +0000" stop="20190306223000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Premier League</title>
+    <sub-title lang="pt">Netbusters</sub-title>
+    <desc lang="pt">Uma visão original da Premier League inglesa. Resumo da jornada anterior: os melhores golos , as melhores equipas e jogadores e os melhores momentos.... Uma visão original da Premier League inglesa. Resumo da jornada anterior: os melhores golos , as melhores equipas e jogadores e os melhores momentos(n)</desc>
+  </programme>
+  <programme start="20190306223000 +0000" stop="20190306230000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Liga Europa: Magazine</title>
+    <desc lang="pt">Magazine da Liga Europa.... Magazine da Liga Europa(n)</desc>
+  </programme>
+  <programme start="20190306230000 +0000" stop="20190306233000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">MLS: 1ª. Jornada (Resumo)</title>
+    <desc lang="pt">Acompanhe os resumos da jornada.... Acompanhe os resumos da jornada(n)</desc>
+  </programme>
+  <programme start="20190306233000 +0000" stop="20190307000000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Andebol: 14ª Jornada</title>
+    <sub-title lang="pt">Liga dos Campeões (Resumo)</sub-title>
+    <desc lang="pt">Resumo da jornada da Liga dos Campeões de Andebol.... Resumo da jornada da Liga dos Campeões de Andebol(n)</desc>
+  </programme>
+  <programme start="20190307000000 +0000" stop="20190307023000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">NBA: Charlotte Hornets x Miami Heat (Direto)</title>
+    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo.... Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
+  </programme>
+  <programme start="20190307023000 +0000" stop="20190307030000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Ténis: ATP World Tour Uncovered</title>
+    <desc lang="pt">Magazine dedicado ao mundo do ténis.... Magazine dedicado ao mundo do ténis(n)</desc>
+  </programme>
+  <programme start="20190307030000 +0000" stop="20190307053000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">NBA: Sacramento Kings x Boston Celtics (Direto)</title>
+    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo.... Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
+  </programme>
+  <programme start="20190307075000 +0000" stop="20190307122000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Surf: Allianz Ericeira Pro</title>
+    <desc lang="pt">Acompanhe a Allianz Ericeira Pro, a contar para a Liga MEO Surf.... Acompanhe a Allianz Ericeira Pro, a contar para a Liga MEO Surf(n)</desc>
+  </programme>
+  <programme start="20190307122000 +0000" stop="20190307142000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">AS Vitre x Nantes</title>
+    <sub-title lang="pt">Taça de França</sub-title>
+    <desc lang="pt">Transmissão do encontro a contar para a Taça de França.... Transmissão do encontro a contar para a Taça de França(n)</desc>
+  </programme>
+  <programme start="20190307142000 +0000" stop="20190307145000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Premier League</title>
+    <sub-title lang="pt">Netbusters</sub-title>
+    <desc lang="pt">Uma visão original da Premier League inglesa. Resumo da jornada anterior: os melhores golos , as melhores equipas e jogadores e os melhores momentos.... Uma visão original da Premier League inglesa. Resumo da jornada anterior: os melhores golos , as melhores equipas e jogadores e os melhores momentos(n)</desc>
+  </programme>
+  <programme start="20190307152000 +0000" stop="20190307155000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Superliga Turca: 24ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Superliga Turca.... Resumo dos melhores momentos da Superliga Turca(n)</desc>
+  </programme>
+  <programme start="20190307155000 +0000" stop="20190307162000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Liga Holandesa: 24ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Liga Holandesa.... Resumo dos melhores momentos da Liga Holandesa(n)</desc>
+  </programme>
+  <programme start="20190307162000 +0000" stop="20190307165000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Primeira Liga: 24ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Primeira Liga.... Resumo dos melhores momentos da Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190307172000 +0000" stop="20190307175500 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Liga Europa: Magazine</title>
+    <desc lang="pt">Magazine da Liga Europa.... Magazine da Liga Europa(n)</desc>
+  </programme>
+  <programme start="20190307175500 +0000" stop="20190307200000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">D. Zagreb x Benfica</title>
+    <sub-title lang="pt">Liga Europa (Direto)</sub-title>
+    <desc lang="pt">Transmissão do encontro a contar para a Liga Europa.... Transmissão do encontro a contar para a Liga Europa(n)</desc>
+  </programme>
+  <programme start="20190307200000 +0000" stop="20190307220000 +0000" channel="PT: SPORT TV 1">
+    <title lang="pt">Nápoles x Salzburgo</title>
+    <sub-title lang="pt">Liga Europa (Direto)</sub-title>
+    <desc lang="pt">Transmissão do encontro a contar para a Liga Europa.... Transmissão do encontro a contar para a Liga Europa(n)</desc>
+  </programme>
+  <programme start="20190306001000 +0000" stop="20190306003000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Premier League: Golos 29ª Jornada</title>
+    <desc lang="pt">Resumo dos melhores momentos da Premier League.... Resumo dos melhores momentos da Premier League(n)</desc>
+  </programme>
+  <programme start="20190306003000 +0000" stop="20190306033000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Wilstermann x Boca Juniors</title>
+    <sub-title lang="pt">Taça dos Libertadores (Direto)</sub-title>
+    <desc lang="pt">Transmissão do jogo a contar para a Taça dos Libertadores da América.... Transmissão do jogo a contar para a Taça dos Libertadores da América(n)</desc>
+  </programme>
+  <programme start="20190306063000 +0000" stop="20190306093000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Fora d´horas</title>
+  </programme>
+  <programme start="20190306093000 +0000" stop="20190306113000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Fora d´horas</title>
+  </programme>
+  <programme start="20190306113000 +0000" stop="20190306130000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Fora d´horas</title>
+  </programme>
+  <programme start="20190306150000 +0000" stop="20190306153000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Superliga Turca: 24ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Superliga Turca.... Resumo dos melhores momentos da Superliga Turca(n)</desc>
+  </programme>
+  <programme start="20190306153000 +0000" stop="20190306160000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Liga Holandesa: 24ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Liga Holandesa.... Resumo dos melhores momentos da Liga Holandesa(n)</desc>
+  </programme>
+  <programme start="20190306160000 +0000" stop="20190306175500 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Man. United x Southampton</title>
+    <sub-title lang="pt">Premier League</sub-title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League.... Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
+  </programme>
+  <programme start="20190306195000 +0000" stop="20190306214500 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Fulham x Chelsea</title>
+    <sub-title lang="pt">Premier League</sub-title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League.... Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
+  </programme>
+  <programme start="20190306214500 +0000" stop="20190306221500 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">MLS: 1ª. Jornada (Resumo)</title>
+    <desc lang="pt">Acompanhe os resumos da jornada.... Acompanhe os resumos da jornada(n)</desc>
+  </programme>
+  <programme start="20190306221500 +0000" stop="20190307001000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Atl. Mineiro x Cerro Porteño</title>
+    <sub-title lang="pt">Taça dos Libertadores (Direto)</sub-title>
+    <desc lang="pt">Transmissão do jogo a contar para a Taça dos Libertadores da América.... Transmissão do jogo a contar para a Taça dos Libertadores da América(n)</desc>
+  </programme>
+  <programme start="20190307001000 +0000" stop="20190307003000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Liga Italiana: Golos 26ª Jornada</title>
+    <desc lang="pt">Os melhores golos da jornada da Liga Italiana.... Os melhores golos da jornada da Liga Italiana(n)</desc>
+  </programme>
+  <programme start="20190307003000 +0000" stop="20190307033000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Alianza Lima x River Plate</title>
+    <sub-title lang="pt">Taça dos Libertadores (Direto)</sub-title>
+    <desc lang="pt">Transmissão do jogo a contar para a Taça dos Libertadores da América.... Transmissão do jogo a contar para a Taça dos Libertadores da América(n)</desc>
+  </programme>
+  <programme start="20190307063000 +0000" stop="20190307093000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Fora d´horas</title>
+  </programme>
+  <programme start="20190307093000 +0000" stop="20190307110000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Fora d´horas</title>
+  </programme>
+  <programme start="20190307110000 +0000" stop="20190307130000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Fora d´horas</title>
+  </programme>
+  <programme start="20190307145500 +0000" stop="20190307165000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Wolverhampton x Cardiff</title>
+    <sub-title lang="pt">Premier League</sub-title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League.... Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
+  </programme>
+  <programme start="20190307165000 +0000" stop="20190307175500 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">Premier League: Resumos e Reportagens (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Premier League.... Resumo dos melhores momentos da Premier League(n)</desc>
+  </programme>
+  <programme start="20190307175500 +0000" stop="20190307200000 +0000" channel="PT: SPORT TV 3">
+    <title lang="pt">E. Frankfurt x Inter</title>
+    <sub-title lang="pt">Liga Europa (Direto)</sub-title>
+    <desc lang="pt">Transmissão do encontro a contar para a Liga Europa.... Transmissão do encontro a contar para a Liga Europa(n)</desc>
+  </programme>
+  <programme start="20190306004000 +0000" stop="20190306023000 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Eu Venho Com a Chuva</title>
+    <desc lang="pt">Kline, um ex-polícia de Los Angeles, viaja para Hong Kong à procura do filho desaparecido de um multimilionário chinês. Mas Kline distrai-se da sua busca, atormentado por recordações do serial k... Kline, um ex-polícia de Los Angeles, viaja para Hong Kong à procura do filho desaparecido de um multimilionário chinês. Mas Kline distrai-se da sua busca, atormentado por recordações do serial killer responsável pela sua saída da polícia(n)</desc>
+  </programme>
+  <programme start="20190306023000 +0000" stop="20190306043000 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Shining</title>
+    <desc lang="pt">Uma obra-prima do terror, de Stanley Kubrick, com Jack Nicholson no papel de ´Jack´, destacado com a família para guardar um hotel isolado no Inverno. Jack nunca tinha ali estado ou será que tinha... Uma obra-prima do terror, de Stanley Kubrick, com Jack Nicholson no papel de ´Jack´, destacado com a família para guardar um hotel isolado no Inverno. Jack nunca tinha ali estado ou será que tinha? Um turbilhão de loucura e morte trará a resposta(n)</desc>
+  </programme>
+  <programme start="20190306063000 +0000" stop="20190306084500 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Visto do Céu</title>
+    <desc lang="pt">Uma jovem que foi assassinada olha pela sua família - e também para o seu assassino - desde o Céu. Mas ela terá de balançar o seu desejo de vingança com o seu desejo de ver a família ultrapassa... Uma jovem que foi assassinada olha pela sua família - e também para o seu assassino - desde o Céu. Mas ela terá de balançar o seu desejo de vingança com o seu desejo de ver a família ultrapassar a sua perda(n)</desc>
+  </programme>
+  <programme start="20190306084500 +0000" stop="20190306103000 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Harry Brown</title>
+    <sub-title lang="pt">O Vigilante</sub-title>
+    <desc lang="pt">Harry Brown é um viúvo e ex-marine septuagenário, cuja vizinhança outrora pacata é hoje dominada pelo crime. Quando o seu melhor amigo é assassinado e o responsável pelo crime é libertado, Har... Harry Brown é um viúvo e ex-marine septuagenário, cuja vizinhança outrora pacata é hoje dominada pelo crime. Quando o seu melhor amigo é assassinado e o responsável pelo crime é libertado, Harry leva o seu desejo de vingança até aos limites(n)</desc>
+  </programme>
+  <programme start="20190306103000 +0000" stop="20190306131500 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Piratas das Caraíbas nos Confins do Mundo</title>
+    <desc lang="pt">Um excêntrico e simpático pirata e os seus companheiros tentam por todos os meios frustrar os planos de um monstro ao serviço do governador britânico.... Um excêntrico e simpático pirata e os seus companheiros tentam por todos os meios frustrar os planos de um monstro ao serviço do governador britânico(n)</desc>
+  </programme>
+  <programme start="20190306151500 +0000" stop="20190306171500 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Shining</title>
+    <desc lang="pt">Uma obra-prima do terror, de Stanley Kubrick, com Jack Nicholson no papel de ´Jack´, destacado com a família para guardar um hotel isolado no Inverno. Jack nunca tinha ali estado ou será que tinha... Uma obra-prima do terror, de Stanley Kubrick, com Jack Nicholson no papel de ´Jack´, destacado com a família para guardar um hotel isolado no Inverno. Jack nunca tinha ali estado ou será que tinha? Um turbilhão de loucura e morte trará a resposta(n)</desc>
+  </programme>
+  <programme start="20190306171500 +0000" stop="20190306190500 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">O Predador</title>
+    <desc lang="pt">Um comando que executa uma operação especial na Nicarágua cumpre a sua missão, mas tem de enfrentar um extraterrestre que se alimenta de seres humanos.... Um comando que executa uma operação especial na Nicarágua cumpre a sua missão, mas tem de enfrentar um extraterrestre que se alimenta de seres humanos(n)</desc>
+  </programme>
+  <programme start="20190306190500 +0000" stop="20190306212500 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Rob Roy</title>
+    <desc lang="pt">A história verídica do herói escocês do séc. XVIII, Robert Roy McGregor, que tenta corajosamente defender a sua honra contra a traição e selvajaria.... A história verídica do herói escocês do séc. XVIII, Robert Roy McGregor, que tenta corajosamente defender a sua honra contra a traição e selvajaria(n)</desc>
+  </programme>
+  <programme start="20190306230000 +0000" stop="20190307004000 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Patologia</title>
+    <desc lang="pt">Ted Gray é um jovem estudante de Medicina, que se junta a um dos mais prestigiados programas de patologia do país. Deslumbrado, acaba envolvido num grupo que criou um perigoso jogo para ver quem con... Ted Gray é um jovem estudante de Medicina, que se junta a um dos mais prestigiados programas de patologia do país. Deslumbrado, acaba envolvido num grupo que criou um perigoso jogo para ver quem consegue cometer um homicídio perfeito e indetetável(n)</desc>
+  </programme>
+  <programme start="20190307004000 +0000" stop="20190307022000 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Terror Viral</title>
+    <desc lang="pt">Cinco amigos são aterrorizados por uma entidade sobrenatural, depois de fazerem o download de uma misteriosa app...... Cinco amigos são aterrorizados por uma entidade sobrenatural, depois de fazerem o download de uma misteriosa app..(n)</desc>
+  </programme>
+  <programme start="20190307022000 +0000" stop="20190307040500 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Irmandade de Sangue</title>
+    <desc lang="pt">Um grupo de amigas de uma fraternidade tenta encobrir a morte de uma delas, depois de uma brincadeira correr mal. Mas as raparigas acabam perseguidas por um serial killer que ameaça enviar vídeos da... Um grupo de amigas de uma fraternidade tenta encobrir a morte de uma delas, depois de uma brincadeira correr mal. Mas as raparigas acabam perseguidas por um serial killer que ameaça enviar vídeos da noite do acidente para a polícia(n)</desc>
+  </programme>
+  <programme start="20190307061500 +0000" stop="20190307083500 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Rob Roy</title>
+    <desc lang="pt">A história verídica do herói escocês do séc. XVIII, Robert Roy McGregor, que tenta corajosamente defender a sua honra contra a traição e selvajaria.... A história verídica do herói escocês do séc. XVIII, Robert Roy McGregor, que tenta corajosamente defender a sua honra contra a traição e selvajaria(n)</desc>
+  </programme>
+  <programme start="20190307083500 +0000" stop="20190307101000 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Sleeper</title>
+    <desc lang="pt">Jennifer começa a duvidar do seu marido Freddy, depois de o apanhar em algumas mentiras, mas não dá muita importância. Freddy sofre um aciente, fica em coma e os mistérios continuam, levando Jenn... Jennifer começa a duvidar do seu marido Freddy, depois de o apanhar em algumas mentiras, mas não dá muita importância. Freddy sofre um aciente, fica em coma e os mistérios continuam, levando Jennifer a duvidar se alguma vez conheceu o homem com quem(n)</desc>
+  </programme>
+  <programme start="20190307101000 +0000" stop="20190307115000 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Patologia</title>
+    <desc lang="pt">Ted Gray é um jovem estudante de Medicina, que se junta a um dos mais prestigiados programas de patologia do país. Deslumbrado, acaba envolvido num grupo que criou um perigoso jogo para ver quem con... Ted Gray é um jovem estudante de Medicina, que se junta a um dos mais prestigiados programas de patologia do país. Deslumbrado, acaba envolvido num grupo que criou um perigoso jogo para ver quem consegue cometer um homicídio perfeito e indetetável(n)</desc>
+  </programme>
+  <programme start="20190307134500 +0000" stop="20190307153000 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Irmandade de Sangue</title>
+    <desc lang="pt">Um grupo de amigas de uma fraternidade tenta encobrir a morte de uma delas, depois de uma brincadeira correr mal. Mas as raparigas acabam perseguidas por um serial killer que ameaça enviar vídeos da... Um grupo de amigas de uma fraternidade tenta encobrir a morte de uma delas, depois de uma brincadeira correr mal. Mas as raparigas acabam perseguidas por um serial killer que ameaça enviar vídeos da noite do acidente para a polícia(n)</desc>
+  </programme>
+  <programme start="20190307153000 +0000" stop="20190307170500 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Better Watch Out</title>
+    <desc lang="pt">Luke, 12 anos, fica ao cuidado de uma babysitter, Ashley, por quem tem uma paixoneta. Quando os dois se apercebem que um estranho está a brincar com eles, os dois são forçados a entrar num jogo de ... Luke, 12 anos, fica ao cuidado de uma babysitter, Ashley, por quem tem uma paixoneta. Quando os dois se apercebem que um estranho está a brincar com eles, os dois são forçados a entrar num jogo de gato e rato, numa luta pela sobrevivência..(n)</desc>
+  </programme>
+  <programme start="20190307170500 +0000" stop="20190307190500 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Alien 3</title>
+    <sub-title lang="pt">A Desforra</sub-title>
+    <desc lang="pt">Uma nave em missão espacial tem um acidente numa colónia penal do espaço. Uma sobrevivente, descobre um estranho organismo que ameaça a vida da comunidade.... Uma nave em missão espacial tem um acidente numa colónia penal do espaço. Uma sobrevivente, descobre um estranho organismo que ameaça a vida da comunidade(n)</desc>
+  </programme>
+  <programme start="20190307212000 +0000" stop="20190307230000 +0000" channel="PT: TV CINE 4 HD">
+    <title lang="pt">Street Fighter: A Lenda de Chun-Li</title>
+    <desc lang="pt">Nas ruas de Banguecoque, Chun-Li junta-se ao seu mestre de Kung-Fu, Gen e assume a luta contra a ignomínia e o poder ilimitado de Bison, patrão do crime.... Nas ruas de Banguecoque, Chun-Li junta-se ao seu mestre de Kung-Fu, Gen e assume a luta contra a ignomínia e o poder ilimitado de Bison, patrão do crime(n)</desc>
+  </programme>
+</tv>
